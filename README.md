@@ -1,3 +1,3 @@
 ### Olá eu sou a Francine dos Santos ...
 
-![FranNinaa GitHub stats](https://github-readme-stats.vercel.app/api?username=FranNinaa&show_icons=true&theme=tokyonight)
+![FranNinaa GitHub stats](https://github-readme-stats.vercel.app/api?username=FranNinaa&show_icons=true&theme=highcontrast)
