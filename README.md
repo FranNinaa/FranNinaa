@@ -1,5 +1,5 @@
 <h2 align="center" font-weight="bold">
-🔭 Estou Estudando para ser uma Desenvolvedora de Sistemas... <br>🤝 Estou buscando um estágio na área para estar me aprimorando meus conhecimentos !<br>🌱Atualmente estou Fazendo Análise e Desenvolvimento de Sistemas na Faculdade UNIASSELVI e também, participo do programa Jovem Programador oferecido pela instituição SENAC !!<br>
+🔭 Estou Estudando para ser uma Desenvolvedora de Sistemas... <br>🤝 Estou buscando um estágio na área para estar aprimorando meus conhecimentos !<br>🌱Atualmente estou Fazendo Análise e Desenvolvimento de Sistemas na Faculdade UNIASSELVI e também, participo do programa Jovem Programador oferecido pela instituição SENAC !!<br>
 
 
 <h1>💫 Sobre Mim:</h1>
