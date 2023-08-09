@@ -3,7 +3,7 @@
 
 
 <h1>💫 Sobre Mim:</h1>
-<img align="right" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemYzOHFiM2hvaDN0aHY3dGl4dHVrbjJsOTJ3ZjM0dXZuMXZ4Z2l2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6sUCb6laWgfxnrrG4N/giphy.gif" />
+<img align="right" width="350" src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" />
 <p>
 Comecei a estudar Tecnologia em 2018, sem nenhum conhecimento prévio, apenas a vontade de estar aprendendo essa profissão e sendo uma ótima profissional para estar proporcionando melhorias de negócios, adquirir e compartilhar conhecimentos e servir à sociedade de forma justa e ética. 
 
