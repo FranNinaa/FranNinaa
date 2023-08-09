@@ -63,7 +63,7 @@ Conhecimento não é habilidade. Conhecimento mais dez mil horas é habilidade. 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AISoltani/AISoltani/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h1 font-weight="bold">📊 My Github Stats 🏆</h1>
+<h1 font-weight="bold">📊 Minhas Estatísticas no GitHub 🏆</h1>
 
 <div align='center'>
   <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranNinaa&layout=compact&langs_count=7&theme=radical">
@@ -81,7 +81,7 @@ Conhecimento não é habilidade. Conhecimento mais dez mil horas é habilidade. 
 </div>
 <br/>
 <details>
-   <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
+  
    </br>
     <div align='center'>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranNinaa&theme=radical" alt="Profile Details">
@@ -96,7 +96,7 @@ Conhecimento não é habilidade. Conhecimento mais dez mil horas é habilidade. 
 
 
 <h1 font-weight="bold">
-  📮 Fique a Vontade em me Contatar ..
+ <summary><h3><b>:rocket: &nbsp;</b></h3></summary>  📮 Fique a Vontade em me Contatar ..
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
 </h1>
 
