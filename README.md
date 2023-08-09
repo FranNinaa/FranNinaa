@@ -1,11 +1,13 @@
+
+
 <h2 align="center" font-weight="bold">
 🔭 Estou Estudando para ser uma Desenvolvedora de Sistemas... <br>🤝 Estou buscando um estágio na área para estar aprimorando meus conhecimentos !<br>🌱Atualmente estou Fazendo Análise e Desenvolvimento de Sistemas na Faculdade UNIASSELVI e também, participo do programa Jovem Programador oferecido pela instituição SENAC !!<br>
 
-
-<h1>💫 Sobre Mim:</h1>
+<html lang=”pt-br”> 
+   <h1>💫 Sobre Mim:</h1>
 <img align="right" width="350" src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" />
 
-<p>Comecei a estudar Tecnologia em 2018, sem nenhum conhecimento prévio, apenas a vontade de estar aprendendo essa profissão e sendo uma ótima profissional para estar proporcionando melhorias de negócios, adquirir e   
+<p >Comecei a estudar Tecnologia em 2018, sem nenhum conhecimento prévio, apenas a vontade de estar aprendendo essa profissão e sendo uma ótima profissional para estar proporcionando melhorias de negócios, adquirir e   
    compartilhar conhecimentos e servir à sociedade de forma justa e ética. 
   
   Estou ansiosa para trabalhar em tempo integral com Programação ou Banco de Dados, estagio ou até como Junior, em Home Office, Hibrido ou Presencial.
@@ -13,6 +15,8 @@
     
   Juntos, vamos formar uma equipe dedicada e entusiamada para esta codando da melhor forma possivel...!!!
  </p>  
+</html>
+
  
   
 <img align="right" width="350" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
