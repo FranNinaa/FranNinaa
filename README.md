@@ -87,7 +87,6 @@ Conhecimento não é habilidade. Conhecimento mais dez mil horas é habilidade. 
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranNinaa&theme=radical" alt="Profile Details">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranNinaa&theme=radical" alt="Repos per Language">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FranNinaa&theme=radical" alt="Most Commit Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FranNinaa&theme=radical" alt="Stats">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FranNinaa&theme=radical&utcOffset=8" alt="Productive Time">
     </div>
    </br>
