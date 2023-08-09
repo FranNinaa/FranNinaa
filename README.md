@@ -100,8 +100,7 @@ Conhecimento não é habilidade. Conhecimento mais dez mil horas é habilidade. 
 </h1>
 
 <h1><summary><h3><b>:rocket: &nbsp;</b></h3></summary> </h1>
-<a href="https://www.linkedin.com/in/francine-santos-88b80622a/">
-    <img src="https://icons8.com.br/icon/64154/linkedin" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/lorenagarcia92/l">https://www.linkedin.com/in/francine-santos-88b80622a/</a>
  
    <br/>
    <h1> <a href="mailto:francinesantoss85@gmail.com?subject=&body=">Enviar email para Francine dos Santos</a></h1>
