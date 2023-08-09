@@ -104,7 +104,7 @@ Conhecimento não é habilidade. Conhecimento mais dez mil horas é habilidade. 
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></h1>
  
    <br/>
-   <h1> <a href="mailto:francinesantoss85@gmail.com?subject=-->>&body= -->>">Enviar email para Francine dos Santos</a></h1>
+   <h1> <a href="mailto:francinesantoss85@gmail.com?subject=&body=">Enviar email para Francine dos Santos</a></h1>
 
 
 
