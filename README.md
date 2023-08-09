@@ -4,8 +4,7 @@
 
 <h1>💫 Sobre Mim:</h1>
 <img align="right" width="350" src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" />
-<p>
-  Comecei a estudar Tecnologia em 2018, sem nenhum conhecimento prévio, apenas a vontade de estar aprendendo essa profissão e sendo uma ótima profissional para estar proporcionando melhorias de negócios, adquirir e   
+<p>Comecei a estudar Tecnologia em 2018, sem nenhum conhecimento prévio, apenas a vontade de estar aprendendo essa profissão e sendo uma ótima profissional para estar proporcionando melhorias de negócios, adquirir e   
    compartilhar conhecimentos e servir à sociedade de forma justa e ética. 
   
   Estou ansiosa para trabalhar em tempo integral com Programação ou Banco de Dados, estagio ou até como Junior, em Home Office, Hibrido ou Presencial.
