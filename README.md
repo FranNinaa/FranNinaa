@@ -3,7 +3,7 @@
 
 
 <h1>💫 Sobre Mim:</h1>
-<img align="right" width="350" src="[https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/as2.gif](https://www.db1group.com/)" />
+<img align="right" width="350" src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" />
 <p>
 Comecei a estudar Tecnologia em 2018, sem nenhum conhecimento prévio, apenas a vontade de estar aprendendo essa profissão e sendo uma ótima profissional para estar proporcionando melhorias de negócios, adquirir e compartilhar conhecimentos e servir à sociedade de forma justa e ética. 
 
