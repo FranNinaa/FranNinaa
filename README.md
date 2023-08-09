@@ -10,7 +10,7 @@ Comecei a estudar Tecnologia em 2018, sem nenhum conhecimento prévio, apenas a 
 Estou ansiosa para trabalhar em tempo integral com Programação ou Banco de Dados, estagio ou até como Junior, em Home Office, Hibrido ou Presencial.
 Habilidade de comunicação, com boa desenvoltura tanto no trabalho em equipe e na negociação.
   
-Juntos, vamos formar uma equipe dedicada e entusiamada para esta codando da melhor fomra possivel...!!!
+Juntos, vamos formar uma equipe dedicada e entusiamada para esta codando da melhor forma possivel...!!!
   
  
   
