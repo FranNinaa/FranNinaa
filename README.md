@@ -71,9 +71,7 @@ Conhecimento não é habilidade. Conhecimento mais dez mil horas é habilidade. 
     <img  src="https://github-profile-trophy.vercel.app/?username=FranNinaa&theme=radical&row=1&column=6" alt="trophy">
   </a>
   <br/>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&preferLogin=false">
-    <img height="150em" alt="FranNinaa GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FranNinaa?cardType=level&theme=radical&preferLogin=false" />
-  </a>
+ 
 
   <a href="https://git.io/streak-stats">
     <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=FranNinaa&theme=radical" alt="GitHub Streak">
@@ -87,6 +85,7 @@ Conhecimento não é habilidade. Conhecimento mais dez mil horas é habilidade. 
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranNinaa&theme=radical" alt="Profile Details">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranNinaa&theme=radical" alt="Repos per Language">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FranNinaa&theme=radical" alt="Most Commit Language">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FranNinaa&theme=radical" alt="Stats">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FranNinaa&theme=radical&utcOffset=8" alt="Productive Time">
     </div>
    </br>
