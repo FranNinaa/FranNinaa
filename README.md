@@ -20,7 +20,7 @@ Juntos, vamos formar uma equipe dedicada e entusiamada para esta codando da melh
 
 <h1 font-weight="bold">
   🌟 Minhas Habilidades 
-<img  width="30" alt="tools"   src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" /> <img  width="30" alt="tools"   src="https://www.db1group.com/" />
+<img  width="30" alt="tools"   src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" /> <img  width="30" alt="tools"   src="https://media3.giphy.com/media/6sUCb6laWgfxnrrG4N/giphy.gif?cid=ecf05e471gpbdsm1x7k6grrh0ceh9zw03kic8e7rlwdzx8ug&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </h1>
 Conhecimento não é habilidade. Conhecimento mais dez mil horas é habilidade. Vá em frente, o futuro pertence àqueles que aprendem mais habilidades e as combinam de forma criativa 😉.
 </p>
