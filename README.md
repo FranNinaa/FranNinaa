@@ -95,12 +95,11 @@ Conhecimento não é habilidade. Conhecimento mais dez mil horas é habilidade. 
 
 
 <h1 font-weight="bold">
- <summary><h3></h3></summary> 
-  
-  📮 Fique a Vontade em me Contatar ..
+   📮 Fique a Vontade em me Contatar ..
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
 </h1>
 
+<summary><h3><b>:rocket: &nbsp;</b></h3></summary> 
  <a href="https://www.linkedin.com/in/francine-santos-88b80622a/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> <p><a class="link-opacity-100" href="#">francinesantoss85@gmail.com</a></p>
