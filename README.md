@@ -95,7 +95,7 @@ Conhecimento não é habilidade. Conhecimento mais dez mil horas é habilidade. 
 
 
 <h1 font-weight="bold">
- <summary><h3><b>:rocket: &nbsp;</b></h3></summary> 
+ <summary><h3></h3></summary> 
   
   📮 Fique a Vontade em me Contatar ..
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
