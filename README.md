@@ -104,11 +104,10 @@ Conhecimento não é habilidade. Conhecimento mais dez mil horas é habilidade. 
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></h1>
  
    <br/>
-   <h1><a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMvdLMPsVBxqbzCZkbfbBCsCSbPmkHzVcxBvRQRJJwspxNvBxcXWSCxKrvvFhXTdfTXKlb">
-  francinesantoss85@gmail.com
-</a></h1>
+   <h1> <a href="mailto:francinesantoss85@gmail.com?subject=Assunto do email&cc=copia@provedor.com.br&bcc=copiaoculta@provedor.com.br&body=Conteúdo do email que será preenchido automaticamente">Enviar email</a></h1>
 
- 
+
+
    
 </p>
  
