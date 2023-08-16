@@ -106,7 +106,7 @@ Conhecimento não é habilidade. Conhecimento mais dez mil horas é habilidade. 
    📮 Fique a Vontade em me Contatar ..
 </h1>
 <img align="left" height='45em' src="https://t.ctcdn.com.br/j6Ao6lPDSq6Cubky93nbjwYVg10=/512x288/smart/filters:format(webp)/i453842.jpeg"/>
-<a href="https://www.linkedin.com/in/lorenagarcia92/l">https://www.linkedin.com/in/francine-santos-88b80622a/</a>
+<a href="https://www.linkedin.com/in/lorenagarcia92/l">https://www.linkedin.com/in/francine-santos-ti/</a>
    <br/>
    <h1> <a href="mailto:francinesantoss85@gmail.com?subject=&body=">Enviar email para Francine dos Santos</a></h1>
 
