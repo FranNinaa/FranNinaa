@@ -1,21 +1,25 @@
 
 
 <h2 align="center" font-weight="bold">
-🔭 Estou Estudando para ser uma Desenvolvedora de Sistemas... <br>🤝 Estou buscando um estágio na área para estar aprimorando meus conhecimentos !<br>🌱Atualmente estou Fazendo Análise e Desenvolvimento de Sistemas na Faculdade UNIASSELVI e também, participo do programa Jovem Programador oferecido pela instituição SENAC !!<br>
+# Sobre Mim como Desenvolvedora em Crescimento
 
-<html lang=”pt-br”> 
-   <h1>💫 Sobre Mim:</h1>
-<img align="right" width="350" src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" />
+Olá! 👋
 
-<p >Estudo Tecnologia desde 2018, sem nenhum conhecimento prévio, apenas a vontade de estar aprendendo essa profissão e sendo uma ótima profissional para estar proporcionando melhorias de negócios, adquirir e   
-   compartilhar conhecimentos e servir à sociedade de forma justa e ética. 
-  
-  Estou ansiosa para trabalhar em tempo integral com Programação ou Banco de Dados, estagio ou até como Junior, em Home Office, Hibrido ou Presencial.
-  Habilidade de comunicação, com boa desenvoltura tanto no trabalho em equipe e na negociação.
-    
-  Juntos, vamos formar uma equipe dedicada e entusiamada para esta codando da melhor forma possivel...!!!
- </p>  
-</html>
+Meu nome é Francine dos Santos e estou trilhando meu caminho para me tornar uma Desenvolvedora de Sistemas apaixonada por tecnologia e aprendizado contínuo. Aqui está um pouco sobre a minha jornada até agora:
+
+- 🔭 Atualmente, estou estudando com foco na área de Desenvolvimento de Sistemas.
+- 🤝 Estou buscando ativamente uma oportunidade de estágio na área, onde poderei aplicar e aprimorar meus conhecimentos.
+- 🌱 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade UNIASSELVI.
+- 💼 Também sou parte do programa Jovem Programador oferecido pelo SENAC, onde estou desenvolvendo habilidades como desenvolvedora fullstack.
+- 📚 Além disso, estou participando do Entra21, focando especialmente no aprendizado de JavaScript e React.
+
+Estou entusiasmada em aprender e crescer como desenvolvedora, sempre em busca de desafios e oportunidades que me permitam expandir minhas habilidades. Se você está interessado em colaborar, aprender juntos ou explorar projetos interessantes, não hesite em entrar em contato!
+
+Vamos continuar a jornada juntos! 🚀
+
+
+
+--
 
  
   
