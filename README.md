@@ -1,7 +1,7 @@
 
 
 <h2 align="center" font-weight="bold">
-# Sobre Mim como Desenvolvedora em Crescimento
+# Uma Desenvolvedora de Sistemas em Crescimento
 
 Olá! 👋
 
