@@ -62,13 +62,7 @@ Vamos continuar a jornada juntos! 🚀
 <div align='center'>
   <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranNinaa&layout=compact&langs_count=7&theme=radical">
   <a href="#">
-   
   <br/>
- 
-
-  <a href="https://git.io/streak-stats">
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=FranNinaa&theme=radical" alt="GitHub Streak">
-  </a>
 </div>
 <br/>
 <details>
