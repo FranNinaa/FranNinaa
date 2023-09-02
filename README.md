@@ -1,7 +1,6 @@
 
 
-<h2 align="center" font-weight="bold">
-##Uma Desenvolvedora de Sistemas em Crescimento
+<h2 align="center" font-weight="bold">Uma Desenvolvedora de Sistemas em Crescimento</h2>
 
 Olá! 👋
 
