@@ -73,16 +73,9 @@ Vamos continuar a jornada juntos! 🚀
 </div>
 <br/>
 <details>
-  
    </br>
     <div align='center'>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranNinaa&theme=radical" alt="Profile Details">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranNinaa&theme=radical" alt="Repos per Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FranNinaa&theme=radical" alt="Most Commit Language">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FranNinaa&theme=radical" alt="Stats">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FranNinaa&theme=radical&utcOffset=8" alt="Productive Time">
-    </div>
-   </br>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranNinaa&theme=radical" alt="ProfileDetails"></div>
 </details>
 
 
