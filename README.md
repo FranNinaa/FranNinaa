@@ -62,8 +62,7 @@ Vamos continuar a jornada juntos! 🚀
 <div align='center'>
   <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranNinaa&layout=compact&langs_count=7&theme=radical">
   <a href="#">
-    <img  src="https://github-profile-trophy.vercel.app/?username=FranNinaa&theme=radical&row=1&column=6" alt="trophy">
-  </a>
+   
   <br/>
  
 
