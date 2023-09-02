@@ -64,7 +64,7 @@ Vamos continuar a jornada juntos! 🚀
   <a href="#">
     
   <br/>
-    <img alt="stats" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=tokyonight">
+    <img alt="stats" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranNinaa&theme=tokyonight">
     </div>
 <br/>
 <details>
