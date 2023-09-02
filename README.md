@@ -7,25 +7,19 @@ Olá! 👋
 Meu nome é Francine dos Santos e estou trilhando meu caminho para me tornar uma Desenvolvedora de Sistemas apaixonada por tecnologia e aprendizado contínuo. Aqui está um pouco sobre a minha jornada até agora:
 
 - 🔭 Atualmente, estou estudando com foco na área de Desenvolvimento de Sistemas.
-- 🤝 Estou buscando ativamente uma oportunidade de estágio na área, onde poderei aplicar e aprimorar meus conhecimentos.
 - 🌱 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade UNIASSELVI.
 - 💼 Também sou parte do programa Jovem Programador oferecido pelo SENAC, onde estou desenvolvendo habilidades como desenvolvedora fullstack.
 - 📚 Além disso, estou participando do Entra21, focando especialmente no aprendizado de JavaScript e React.
+- 🤝 Estou buscando ativamente uma oportunidade de estágio na área, onde poderei aplicar e aprimorar meus conhecimentos.
 
-Estou entusiasmada em aprender e crescer como desenvolvedora, sempre em busca de desafios e oportunidades que me permitam expandir minhas habilidades. Se você está interessado em colaborar, aprender juntos ou explorar projetos interessantes, não hesite em entrar em contato!
+Estou entusiasmada em aprender e crescer como desenvolvedora, sempre em busca de desafios e oportunidades que me permitam expandir minhas habilidades.
+Se você está interessado em colaborar, aprender juntos ou explorar projetos interessantes, não hesite em entrar em contato!
 
 Vamos continuar a jornada juntos! 🚀
-
-
-
---
-
- 
   
 <img align="right" width="350" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
 
-  
-
+ 
 <h1 font-weight="bold">
   🌟 Minhas Habilidades 
 <img  width="30" alt="tools"   src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" /> </h1>
