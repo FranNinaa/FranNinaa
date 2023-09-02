@@ -63,6 +63,7 @@ Vamos continuar a jornada juntos! 🚀
   <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranNinaa&layout=compact&langs_count=7&theme=radical">
   <a href="#">
   <br/>
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=tokyonight)
 </div>
 <br/>
 <details>
