@@ -67,11 +67,7 @@ Vamos continuar a jornada juntos! 🚀
     <img alt="stats" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranNinaa&theme=tokyonight">
     </div>
 <br/>
-<details>
-   </br>
-    <div align='center'>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranNinaa&theme=radical" alt="ProfileDetails"></div>
-</details>
+
 
 
 
