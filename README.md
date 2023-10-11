@@ -59,9 +59,7 @@ Vamos continuar a jornada juntos! 🚀
 
 <h1 font-weight="bold">📊 Minhas Estatísticas no GitHub 🏆</h1>
 
-<div align='center'>
-  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranNinaa&layout=compact&langs_count=7&theme=radical">
-  <a href="#">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranNinaa&layout=compact)
     
   <br/>
     <img alt="stats" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranNinaa&theme=tokyonight">
