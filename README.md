@@ -52,8 +52,6 @@ Vamos continuar a jornada juntos! 🚀
      <img height='25em' src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
      <img height='25em' src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
      <img height='25em' src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-
-    
   </p>
 
 
@@ -61,18 +59,10 @@ Vamos continuar a jornada juntos! 🚀
 <!--   <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="" align="center"/> -->
 <h2 align="center"></h2>
 <br/>
-<h3>Vamos Jogar !!</h3>  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AISoltani/AISoltani/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AISoltani/AISoltani/output/github-contribution-grid-snake.svg">
-</picture>
-
 <h1 font-weight="bold">📊 Minhas Estatísticas no GitHub 🏆</h1>
-
 <div align='center'>
   <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranNinaa&layout=compact&langs_count=7&theme=radical">
   <a href="#">
-    
   <br/>
     <img alt="stats" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranNinaa&theme=tokyonight">
     </div>
