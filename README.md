@@ -8,8 +8,8 @@ Meu nome é Francine dos Santos e estou trilhando meu caminho para me tornar uma
 
 - 🔭 Atualmente, estou estudando com foco na área de Desenvolvimento de Sistemas.
 - 🌱 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade UNIASSELVI.
-- 💼 Também sou parte do programa Jovem Programador oferecido pelo SENAC, onde estou desenvolvendo habilidades como desenvolvedora fullstack.
-- 📚 Além disso, estou participando do Entra21, focando especialmente no aprendizado de JavaScript e React.
+- 💼 Fiz parte do programa Jovem Programador oferecido pelo SENAC, onde estou desenvolvendo habilidades como desenvolvedora fullstack em 2023.
+- 📚 Estou participando do Entra21, focando especialmente no aprendizado de JavaScript e React.
 - 🤝 Estou buscando ativamente uma oportunidade de estágio na área, onde poderei aplicar e aprimorar meus conhecimentos.
 
 Estou entusiasmada em aprender e crescer como desenvolvedora, sempre em busca de desafios e oportunidades que me permitam expandir minhas habilidades.
