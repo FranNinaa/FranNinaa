@@ -20,8 +20,7 @@ Vamos continuar a jornada juntos! 🚀
 <img align="right" width="350" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
 
  
-<h1 font-weight="bold">
-  🌟 Minhas Habilidades 
+<h1 font-weight="bold">🌟 Minhas Habilidades</h1>
 
 <p>Conhecimento não é habilidade. Conhecimento mais dez mil horas é habilidade. Vá em frente, o futuro pertence àqueles que aprendem mais habilidades e as combinam de forma criativa 😉.</p>
   <br/>
